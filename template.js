@@ -16,7 +16,7 @@ function createReadme(
 
   ## Table of Contents
    - [Description](#description)
-   - [Installtion](#installation)
+   - [Installation](#installation)
    - [Usage](#usage)
    - [License](#license)
    - [Contributions](#contributions)
@@ -26,7 +26,7 @@ function createReadme(
   ## Description
    ${description}
     
-  ## Installtion
+  ## Installation
    ${installation}
     
   ## Usage

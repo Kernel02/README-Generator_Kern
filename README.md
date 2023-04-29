@@ -3,7 +3,7 @@
 
   ## Table of Contents
    - [Description](#description)
-   - [Installtion](#installation)
+   - [Installation](#installation)
    - [Usage](#usage)
    - [License](#license)
    - [Contributions](#contributions)
@@ -13,7 +13,7 @@
   ## Description
    A command-line application that uses inquirer to prompt the user with questions, then writes a professional README.md given the user's inputs. The application was created with JavaScript, Node.js and Inquirer.js. This application will give developers an easy tool to quickly make a professional README.md wihtout having to create the file from scratch themselves.
     
-  ## Installtion
+  ## Installation
    To install the application, copy the GitHub repository and download it to your local computer.
     
   ## Usage

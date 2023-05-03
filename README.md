@@ -17,7 +17,7 @@
    To install the application, copy the GitHub repository and download it to your local computer.
     
   ## Usage
-   From your command line, enter node index.js to run the file. Answer all of the given prompts to then have a README.md file produced for you in the Generated-README.md folder. Watch the following video to see exactly how it's done: https://watch.screencastify.com/v/4pAMKGLFjYgtAPJ5CigiLinks
+   From your command line, enter node index.js to run the file. Answer all of the given prompts to then have a README.md file produced for you in the Generated-README.md folder. Watch the following video to see exactly how it's done: https://watch.screencastify.com/v/4pAMKGLFjYgtAPJ5Cigi
     
   ## License
    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)

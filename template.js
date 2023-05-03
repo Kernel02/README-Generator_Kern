@@ -44,7 +44,7 @@ function createReadme(
   ## Questions
    If you have any questions you can contact me at my email: ${email}
    
-   GitHub: ${gitHubUsername}`;
+   GitHub: [${gitHubUsername}](https://www.github.com/${gitHubUsername})`;
 
   fs.writeFile(`./Generated-README.md/${title}.md`, readme, (err) => {
     if (err) {

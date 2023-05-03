@@ -1,5 +1,5 @@
 
-  # SAMPLE [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  # Sample Title [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Table of Contents
    - [Description](#description)
@@ -11,24 +11,24 @@
    - [Questions](#questions)
     
   ## Description
-   This is a sample description.
+   Sample Description
     
   ## Installation
-   Sample installation instructions.
+   Sample Installation Instructions
     
   ## Usage
-   Sample usage information.
+   Sample Usage Information
     
   ## License
    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
     
   ## Contributions
-   Sample contributors.
+   Sample Contribution Guidelines
     
   ## Tests
-   Sample test instructions.
+   Sample Test Instructions
    
   ## Questions
-   If you have any questions you can contact me at my email: sampleemail@gmail.com
+   If you have any questions you can contact me at my email: sampleEmail@gmail.com
    
-   GitHub: sample-username
+   GitHub: [sample-user](https://www.github.com/sample-user)
